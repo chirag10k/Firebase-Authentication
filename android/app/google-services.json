@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987496371876",
+    "firebase_url": "https://flutterfire-df932.firebaseio.com",
+    "project_id": "flutterfire-df932",
+    "storage_bucket": "flutterfire-df932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987496371876:android:9b1677b42a170154",
+        "android_client_info": {
+          "package_name": "stucktle.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987496371876-at0i2nb8gcmpab2qt3i61fmhh4frt02g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stucktle.firebase",
+            "certificate_hash": "0701341b7ddf17b648c950c680251ba632cf8bf7"
+          }
+        },
+        {
+          "client_id": "987496371876-jm0th02st54d5ku4c8g2ho50o15i2oid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjgN0mF6aeW3J4ECepH_lNybLaPjHRmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987496371876-jm0th02st54d5ku4c8g2ho50o15i2oid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987496371876-ubmrnsotpt4r1cjd87bca2dhtmjkah9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "stucktle.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
