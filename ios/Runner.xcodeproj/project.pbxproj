@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		00E4E8EB22E8C53D00D08067 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 00E4E8EA22E8C53D00D08067 /* GoogleService-Info.plist */; };
-		00E4E8EC22E8C59C00D08067 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97C147021CF9000F007C117D /* Info.plist */; };
 		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
 		2078EA37C16C0533BCDD2545 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DC36C2472B8081F69ADCEF4 /* Pods_Runner.framework */; };
 		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; };
@@ -219,7 +218,6 @@
 				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
 				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
 				00E4E8EB22E8C53D00D08067 /* GoogleService-Info.plist in Resources */,
-				00E4E8EC22E8C59C00D08067 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
