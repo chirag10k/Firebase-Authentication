@@ -28,6 +28,7 @@ dependencies:
   cloud_firestore:
   flutter_staggered_grid_view:
   firebase_admob: ^0.5.2
+  firebase_analytics:
 
 dev_dependencies:
   flutter_test:
